@@ -8,6 +8,10 @@ A collection of cookbooks, tutorials, and examples for using AI models on DeepIn
 
 - **[Nemotron 3 Nano](models/nemotron-3-nano/)** - NVIDIA's open reasoning model with hybrid MoE-Mamba architecture
 
+### Agents
+
+- **[Deep Agent on Nemotron 3 Ultra](models/nvidia-nemotron-3-ultra-langchain-deep-agents/)** - Build a LangChain Deep Agent on NVIDIA Nemotron 3 Ultra via DeepInfra's OpenAI-compatible API, using the Deep Agents harness profile tuned for Nemotron 3 Ultra
+
 ## Structure
 
 Each model cookbook includes:
